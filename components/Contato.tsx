@@ -15,7 +15,7 @@ export default function Contato() {
         </div>
 
         <p style={{ fontSize: "0.95rem", color: "rgba(255,255,255,0.5)", fontWeight: 300, maxWidth: 480, margin: "0 auto 2.8rem", lineHeight: 1.85 }}>
-          Quer fazer um pedido, tirar dúvidas ou agendar seu horário de manicure? Fale comigo pelo WhatsApp ou Instagram!
+          Quer fazer um pedido, tirar dúvidas ou agendar seu horário de manicure? Fale comigo pelo WhatsApp!
         </p>
 
         <div style={{ display: "flex", gap: "1rem", justifyContent: "center", flexWrap: "wrap" }}>
